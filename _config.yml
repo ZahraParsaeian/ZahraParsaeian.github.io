@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zahra Parsaeian"
 title_separator          : "-"
 name                     : &name "Zahra Parsaeian"
-description              : &description "Soon CS MSc @ Max Planck Institute for Informatics (Saarland University) | Algorithms design | Graph algorithms | Approximation algorithms | online algorithms "
+description              : &description ""
 url                      : https://ZahraParsaeian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZahraParsaeian/ZahraParsaeian.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @ParsaeianZahra
+  username               : &ParsaeianZahra
 facebook:
   username               :
   app_id                 :
