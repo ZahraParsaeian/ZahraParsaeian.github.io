@@ -22,8 +22,8 @@ Research Experience
 ======
 * Scientific Intern, Max Planck Institute for Informatics, Feb 2020 - March 2020
 * Research, 2018 - Sep 2019
-* Scientific Intern, Max Planck Institute for Informatics, Aug 2019
-For more information, visit <a href="https://zahraparsaeian.github.io/research/">here</a> please.
+* Scientific Intern, Max Planck Institute for Informatics, Aug 2019 \\
+For more information, visit <a href="https://zahraparsaeian.github.io/research/"> here </a> please.
 
 Work experience
 ======
