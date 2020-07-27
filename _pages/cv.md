@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. in Computer Engineering (Major in Software), 2015 - 2019\\
+Isfahan University of Technology, Isfahan, Iran.\\
+GPA: 3.85/4(ranked 1st among all students)
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
