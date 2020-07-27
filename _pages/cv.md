@@ -23,13 +23,13 @@ Research Experience
 * Scientific Intern, Max Planck Institute for Informatics, Feb 2020 - March 2020.
 * Research, 2018 - Sep 2019.
 * Scientific Intern, Max Planck Institute for Informatics, Aug 2019. \\
-For more information, visit <a href="https://zahraparsaeian.github.io/research/"> "Research" </a> please.
+For more information, visit <a href="https://zahraparsaeian.github.io/research/"> "Research" </a>, please.
 
 Notable Projects
 ======
 * Users’ behavioral detection, Summer 2018.
-* Facial Expression Recognition, Spring 2018.
-For more information, visit <a href="https://zahraparsaeian.github.io/projects/"> "Projects" </a> please.
+* Facial Expression Recognition, Spring 2018.\\
+For more information, visit <a href="https://zahraparsaeian.github.io/projects/"> "Projects" </a>, please.
 
 Honor And Awards
 ======
@@ -56,44 +56,19 @@ Work experience
   * English, 2018 - 2019
   * Math, 2017- 2018
   
-Relavent Courses
-======
-* Data Structures(19.75/20)                                      Graph Theory(17/20)
-* Advanced Programming (18.3/20)
-* Numerical Calculations(20/20)
-* Theory of Formal Languages(19.1/20)
-* Design and Analysis of Algorithms(19.75/20)
-* Machine Learning (Audit)
-* Approximation Algorithm(Graduate)(Audit)
-* Topics in Theory of Computation(Graduate)(16/20)
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-#Publications
-#======
- # <ul>{% for post in site.publications %}
-  #  {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
-  
-#Talks
-#======
- # <ul>{% for post in site.talks %}
-  #  {% include archive-single-talk-cv.html %}
-  #{% endfor %}</ul>
-  
-#Teaching
-#======
- # <ul>{% for post in site.teaching %}
-  #  {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+* Programming Languages
+  * C/C++
+  * Python
+* Parallel Programming
+  * CUDA
+  * OpenMP
+  * MPI(mpi4py)
+* Machine Learning Libraries
+  * scikit learn
+  * Tensorflow
+  * Keras
+\\
+For more information visit my <a href= "http://ZahraParsaeian.github.io/files/CV.pdf"> CV </a>, please.
