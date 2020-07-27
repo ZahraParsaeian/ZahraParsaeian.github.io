@@ -11,12 +11,18 @@ redirect_from:
 
 Education
 ======
+* M.Sc. in Computer Science, Sep 2019 - Feb 2020.\\
+Sharif University of Technology, Tehran, Iran.
 * B.Sc. in Computer Engineering (Major in Software), 2015 - 2019\\
 Isfahan University of Technology, Isfahan, Iran.\\
 GPA: 3.85/4(ranked 1st among all students)
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
+
+<a href=/research/>Research experience</a>
+======
+*Scientific Intern, Max Planck Institute for Informatics, Feb 2020 - March 2020
+*Research, 2018 - Sep 2019
+*Scientific Intern, Max Planck Institute for Informatics, Aug 2019
 Work experience
 ======
 * Summer 2015: Research Assistant
