@@ -20,9 +20,9 @@ GPA: 3.85/4(ranked 1st among all students)
 
 Research Experience
 ======
-*Scientific Intern, Max Planck Institute for Informatics, Feb 2020 - March 2020
-*Research, 2018 - Sep 2019
-*Scientific Intern, Max Planck Institute for Informatics, Aug 2019
+* Scientific Intern, Max Planck Institute for Informatics, Feb 2020 - March 2020
+* Research, 2018 - Sep 2019
+* Scientific Intern, Max Planck Institute for Informatics, Aug 2019
 For more information, visit <a href=/research/>here</a> please.
 
 Work experience
