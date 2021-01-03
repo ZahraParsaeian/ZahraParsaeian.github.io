@@ -71,4 +71,4 @@ Skills
   * Tensorflow
   * Keras
 \\
-* For more information visit my <a href= "http://ZahraParsaeian.github.io/files/CV.pdf"> CV </a>, please.
+* For more information visit my <a href= ""> CV </a>, please.
