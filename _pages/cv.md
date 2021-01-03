@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Computer Science, Sep 2019 - Feb 2020.\\
-Sharif University of Technology, Tehran, Iran.
+* M.Sc. in Computer Science, Nov 2020 - present.\\
+Max Planck Institute for Informatics (Saarland University) Saarbr{\"u}ken, Germany.
 * B.Sc. in Computer Engineering (Major in Software), 2015 - 2019\\
 Isfahan University of Technology, Isfahan, Iran.\\
 GPA: 3.85/4(ranked 1st among all students)
